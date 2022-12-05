@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jayson Bualoy  
-- 👀 I’m interested in customizing apps using JAVA and Kotlin
+- 👀 I’m interested in customizing apps using JAVA and Kotlina and problem solving
 - 🌱 I’m currently learning native apps and latest trends
 - 💞️ I’m looking to collaborate on mobile development
 
